@@ -1,8 +1,8 @@
 +++
 title = "About me"
 draft = false
+image = "yuma-cabasumsum.jpg"
 description = ""
-image = "/img/default-author.jpg"
 +++
 ![](/img/default-author.jpg)
 
@@ -10,4 +10,6 @@ image = "/img/default-author.jpg"
 
 mail@example.org
 
-Here should be some info about me...
+What the HELL???
+
+Powered by Big Dick Energy
