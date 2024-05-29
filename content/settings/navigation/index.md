@@ -11,5 +11,5 @@ url = "/about/"
 
 [[link]]
 title = "About Damjan"
-url = "google.com"
+url = "About Damjan"
 +++
