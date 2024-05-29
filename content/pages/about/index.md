@@ -4,7 +4,7 @@ draft = false
 image = "yuma-cabasumsum.jpg"
 description = ""
 +++
-![](/img/default-author.jpg)
+![](yuma-cabasumsum.jpg)
 
 ## My Name
 
