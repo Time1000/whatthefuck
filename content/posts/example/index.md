@@ -5,7 +5,7 @@ draft = true
 pinned = false
 tags = []
 image = "dall-e-2024-05-29-10.24.24-a-detailed-illustration-showing-the-journey-from-barn-to-drive-thru-how-the-big-mac-influenced-swiss-farmers.-on-the-left-side-depict-a-traditiona-copy.jpg"
-description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
+description = "Siuuuu"
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
 ![](dall-e-2024-05-29-10.24.24-a-detailed-illustration-showing-the-journey-from-barn-to-drive-thru-how-the-big-mac-influenced-swiss-farmers.-on-the-left-side-depict-a-traditiona-copy.jpg "Nigga")
