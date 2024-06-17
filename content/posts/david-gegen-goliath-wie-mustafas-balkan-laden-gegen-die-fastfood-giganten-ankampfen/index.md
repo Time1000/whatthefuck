@@ -7,6 +7,8 @@ image = "1ad7536a-7672-4fdc-9428-1914700c7ecc-medium.jpeg"
 description = "Bern scheint von McDonalds und Co überflutet zu sein. Fluch oder Segen für die Berner Landwirte? Und wie überlebt ein traditioneller Grill in einer solchen Umgebung? "
 footnotes = "Titelbild: ChatGPT- Prompt: generate me a picture for the following title: David gegen Goliath – Wie Mustafas Balkan-Läden gegen die Fastfood-Giganten Ankämpfen\n\nQuellen: \n\nWikipedia- https://de.wikipedia.org/wiki/Liste_der_L%C3%A4nder_nach_Anteil_an_adip%C3%B6sen_Personen\n\n20 Minuten- https://www.20min.ch/story/es-ist-einfach-nur-grusig-l-d-20-biss-bei-mcdonalds-in-schimmligen-burger-846851296012\n\nLen Foley- The World's First Bionic Burger- https://www.youtube.com/watch?v=mYyDXH1amic\n\nWatson- https://politik.watson.de/international/essen/417107002-eine-studie-weist-faekal-bakterien-auf-mcdonalds-automaten-nach\n\n\n\nHerzlichen Dank an Mustafa Sabotic und sein Team"
 +++
+*Bern scheint von McDonalds und Co überflutet zu sein. Fluch oder Segen für die Berner Landwirte? Und wie überlebt ein traditioneller Grill in einer solchen Umgebung?* 
+
 ![](1ad7536a-7672-4fdc-9428-1914700c7ecc-medium.jpeg)
 
 Mustafa Sabotic ist Imperator. Sein Imperium: Die grösste Kette von balkanischen Läden in der Schweiz. Schon seit den 90ern regiert er mit eiserner Hand, doch sind seine Tage gezählt? Er erzählt uns über sein Geschäft und über die Herausforderungen, die er hat(te).
