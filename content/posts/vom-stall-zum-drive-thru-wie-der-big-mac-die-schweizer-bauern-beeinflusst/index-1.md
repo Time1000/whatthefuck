@@ -6,22 +6,22 @@ pinned = false
 image = ""
 description = "Bern scheint von McDonalds und Co überflutet zu sein. Fluch oder Segen für die Berner Landwirte? Und wie überlebt ein traditioneller Grill in einer solchen Umgebung? "
 +++
-<!--\[if !mso]>
+<!--\\[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
 o\:* {behavior:url(#default#VML);}
 w\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -61,9 +61,9 @@ w\:* {behavior:url(#default#VML);}
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -642,9 +642,9 @@ w\:* {behavior:url(#default#VML);}
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -671,110 +671,93 @@ w\:* {behavior:url(#default#VML);}
 	mso-ligatures:standardcontextual;
 	mso-ansi-language:DE-CH;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
-Mustafa Sabotic ist Imperator. Sein Imperium: Die grösste Kette von balkanischen Läden in der Schweiz. Schon seit den 90ern regiert er mit eiserner Hand, doch sind seine Tage gezählt? Er erzählt uns über sein Geschäft und über die Herausforderungen, die er hat(te).\
-<!--\[if !supportLineBreakNewLine]-->\
-<!--\[endif]-->
+Mustafa Sabotic ist Imperator. Sein Imperium: Die grösste Kette von balkanischen Läden in der Schweiz. Schon seit den 90ern regiert er mit eiserner Hand, doch sind seine Tage gezählt? Er erzählt uns über sein Geschäft und über die Herausforderungen, die er hat(te).
 
-**Vom ersten Laden zur Expansion**\
-<!--\[if !supportLineBreakNewLine]-->\
-<!--\[endif]-->
+<!--\\[if !supportLineBreakNewLine]-->
+
+<!--\\[endif]-->
+
+**Vom ersten Laden zur Expansion**
+
+<!--\\[if !supportLineBreakNewLine]-->
+
+<!--\\[endif]-->
 
 Mustafa, ethnisch gesehen Bosnier, wuchs in der Schweiz auf und eröffnete 1995 seinen ersten Laden in Biel. Zwei Jahre später folgte die zweite Filiale in Bern und ein Jahr später die Dritte und Letzte in Renens. Mittlerweile übernehmen seine drei Söhne langsam, aber sicher, das Geschäft. Neben zahlreichen Sorten von Käse und Fleisch, welche man woanders nur schwer in die Hände bekommt, verkauft er auch Gewürze und Süssigkeiten von der europäischen Halbinsel. In der Berner Filiale hat es auch einen Grill, wo man Pljeskavica, die ex-Jugoslawische Version des Döners, kaufen kann.\
-<!--\[if !supportLineBreakNewLine]-->\
-<!--\[endif]-->
 
-**Ein Mitarbeiter im Interview\
-<!--\[if !supportLineBreakNewLine]-->\
-<!--\[endif]-->**
+<!--\\[if !supportLineBreakNewLine]-->
 
-Milan studiert Theaterwissenschaften an der Uni Bern. Nach den Vorlesungen hilft er bei Mustafa im Laden aus. „*Es ist eine super Gelegenheit, etwas dazuzuverdienen,*“ meint Milan. Er ist Schweizer, aber hat balkanische Wurzeln, was die Arbeit deutlich leichter macht. Er kennt die Kultur und kann die Sprache sprechen. Arbeiten tut er jetzt schon ein knappes Jahr im Laden. Ein Leben lang dort angestellt zu sein, kann er sich aber nicht vorstellen. Sein Traum ist es, nach New York zu ziehen und an der berühmt-berüchtigten Juilliard School zu studieren. Aus seiner Sicht der Dinge stellt der Mangel an jungen Kunden das grösste Problem dar. Die meisten Kunden seien schon längst über 30, schätzt er. Laut Milan hat „*Der Laden den Trend rund um die Digitalisierung verpasst und Seiten wie balkani.ch oder balkanking.ch dominieren da den Markt*.“ Die jungen Kunden kaufen dann digital ein und besuchen nicht den Laden, was sich langfristig gesehen ein Problem für Mustafa und seine Söhne darstellt, wenn sie nicht anfangen, online zu verkaufen und attraktiver für die neue Generation zu werden.\
-<!--\[if !supportLineBreakNewLine]-->\
-<!--\[endif]-->
+<!--\\[endif]-->
 
-<!--\[if gte vml 1]><v:shapetype
- id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
- path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
- <v:stroke joinstyle="miter"/>
- <v:formulas>
-  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
-  <v:f eqn="sum @0 1 0"/>
-  <v:f eqn="sum 0 0 @1"/>
-  <v:f eqn="prod @2 1 2"/>
-  <v:f eqn="prod @3 21600 pixelWidth"/>
-  <v:f eqn="prod @3 21600 pixelHeight"/>
-  <v:f eqn="sum @0 0 1"/>
-  <v:f eqn="prod @6 1 2"/>
-  <v:f eqn="prod @7 21600 pixelWidth"/>
-  <v:f eqn="sum @8 21600 0"/>
-  <v:f eqn="prod @7 21600 pixelHeight"/>
-  <v:f eqn="sum @10 21600 0"/>
- </v:formulas>
- <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
- <o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype><v:shape id="Grafik_x0020_1" o:spid="_x0000_i1027" type="#_x0000_t75"
- alt="Ein Bild, das Text, Person, Menschliches Gesicht, Kleidung enthält.&#10;&#10;Automatisch generierte Beschreibung"
- style='width:218pt;height:180pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="file:////Users/a11/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.jpg"
-  o:title="Ein Bild, das Text, Person, Menschliches Gesicht, Kleidung enthält"/>
-</v:shape><!\[endif]--><!--\[if !vml]-->![Ein Bild, das Text, Person, Menschliches Gesicht, Kleidung enthält.
+**Ein Mitarbeiter im Interview**
 
-Automatisch generierte Beschreibung](file:////Users/a11/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.jpg)<!--\[endif]-->
+<!--\\[if !supportLineBreakNewLine]-->
 
- 
+<!--\\[endif]-->
 
-**Die goldenen Jahre und die Veränderung der Demografie\
-<!--\[if !supportLineBreakNewLine]-->\
-<!--\[endif]-->**
+Milan studiert Theaterwissenschaften an der Uni Bern. Nach den Vorlesungen hilft er bei Mustafa im Laden aus. „*Es ist eine super Gelegenheit, etwas dazuzuverdienen,*“ meint Milan. Er ist Schweizer, aber hat balkanische Wurzeln, was die Arbeit deutlich leichter macht. Er kennt die Kultur und kann die Sprache sprechen. Arbeiten tut er jetzt schon ein knappes Jahr im Laden. Ein Leben lang dort angestellt zu sein, kann er sich aber nicht vorstellen. Sein Traum ist es, nach New York zu ziehen und an der berühmt-berüchtigten Juilliard School zu studieren. Aus seiner Sicht der Dinge stellt der Mangel an jungen Kunden das grösste Problem dar. Die meisten Kunden seien schon längst über 30, schätzt er. Laut Milan hat „*Der Laden den Trend rund um die Digitalisierung verpasst und Seiten wie balkani.ch oder balkanking.ch dominieren da den Markt*.“ Die jungen Kunden kaufen dann digital ein und besuchen nicht den Laden, was sich langfristig gesehen ein Problem für Mustafa und seine Söhne darstellt, wenn sie nicht anfangen, online zu verkaufen und attraktiver für die neue Generation zu werden.
 
-Mustafa erzählte uns, wie sich die Gesichter, die der Laden sah, änderten. Anfangs, als im damaligen Jugoslawien der Bürgerkrieg tobte und die ersten Migrationswellen die Schweiz erreichten, florierte das Geschäft und war voller „*Jugos*“. Während dieser Zeit eröffnete auch der Grill in Bern und in den Mittagspausen kamen immer viele Leute auf eine Pljeskavica, ganz wie in der Heimat, vorbei. „*Es war sehr schön zu sehen, wie die Leute freundlich und respektvoll waren, obwohl Ihre Völker sich bekämpften. Während das Alte Jugoslawien zusammenbrach, wuchs in meinem Laden ein kleines Neues*.“ Erzählt uns der Ladenbesitzer schmunzelnd. Die Demografie in den Läden hat sich mittlerweile aber geändert. Weiterhin, so Mustafa, seien die meisten Kunden vom Balkan, aber es gäbe auch Schweizer und Westeuropäer, die regelmässig vorbeischauten, um vor allem Gewürze und Trockenware einzukaufen. Dafür sind die südlichen Regionen Europas schliesslich bekannt.\
-<!--\[if !supportLineBreakNewLine]-->\
-<!--\[endif]-->
+<!--\\[if !supportLineBreakNewLine]-->
 
-**Der Kampf gegen die Vorurteile\
-<!--\[if !supportLineBreakNewLine]-->\
-<!--\[endif]-->**
+<!--\\[endif]-->
+
+![](pictur1.jpg)
+
+
+
+**Die goldenen Jahre und die Veränderung der Demografie**
+
+<!--\\[if !supportLineBreakNewLine]-->
+
+<!--\\[endif]-->
+
+Mustafa erzählte uns, wie sich die Gesichter, die der Laden sah, änderten. Anfangs, als im damaligen Jugoslawien der Bürgerkrieg tobte und die ersten Migrationswellen die Schweiz erreichten, florierte das Geschäft und war voller „*Jugos*“. Während dieser Zeit eröffnete auch der Grill in Bern und in den Mittagspausen kamen immer viele Leute auf eine Pljeskavica, ganz wie in der Heimat, vorbei. „*Es war sehr schön zu sehen, wie die Leute freundlich und respektvoll waren, obwohl Ihre Völker sich bekämpften. Während das Alte Jugoslawien zusammenbrach, wuchs in meinem Laden ein kleines Neues*.“ Erzählt uns der Ladenbesitzer schmunzelnd. Die Demografie in den Läden hat sich mittlerweile aber geändert. Weiterhin, so Mustafa, seien die meisten Kunden vom Balkan, aber es gäbe auch Schweizer und Westeuropäer, die regelmässig vorbeischauten, um vor allem Gewürze und Trockenware einzukaufen. Dafür sind die südlichen Regionen Europas schliesslich bekannt.
+
+<!--\\[if !supportLineBreakNewLine]-->
+
+<!--\\[endif]-->
+
+**Der Kampf gegen die Vorurteile**
+
+<!--\\[if !supportLineBreakNewLine]-->
+
+<!--\\[endif]-->\*\*
 
 Der Grill in Bern dagegen verlor an Beliebtheit und hat heutzutage nur noch am Wochenende offen. Als Grund dafür sieht Mustafa die vergleichsweise hohen Preise. Für eine Pljeskavica und ein Getränk muss man 15 CHF blechen. Einen BigMac oder Döner kann man dagegen schon für rund 8 CHF bei der Konkurrenz erwerben. Am Preis seines Produktes kann er nichts ändern, meint Sabotic, denn im Vergleich zu den, wie er sie nennt, fettigen Fastfood-Ketten kauft er nur geringe Fleischmengen ein. Auch sei sein Fleisch von bester Qualität, anders als die „*Mini-Pallets*“ bei McDonalds. Auf die Frage, wie denn dann ein Döner 8 CHF kosten kann, wusste Mustafa auch keine Antwort. „*Geldwäsche vom Feinsten*“ ist seine Vermutung. Inwiefern er Recht hat, wissen wohl nur die Budenbesitzer. Ein weiteres Problem sieht der Familienvater beim Thema Hygiene. „*Die Kunden hören Geschichten von Salmonellen in Dönerbuden oder Freunden, die sich am Döner den Magen verdorben haben, und denken, es trifft auf jegliche Buden wie die unsere zu, obwohl der Schweizer Fleisch-Fachverband (SFF) unsere Hygienemassnahmen zertifiziert hat.*“\
 Ein zufälliger Passant, den wir befragt haben, bestätigt Mustafas These. Er selbst hat noch nie Döner, Pljeskavica und Co. probiert – hat es aber auch nicht vor, weil ebensolche Geschichten über schlechte Hygieneumgebungen ihn abschrecken. Auf die Frage, was er isst, wenn es mal schnell gehen muss, meinte er, dass er am liebsten zu McDonalds oder KFC geht, denn „*dort ist es wenigstens sauber und das Fleisch kommt aus der Region.*“ Auf den ersten Blick ein logischer Gedankengang, denn McDonalds und KFC sind schliesslich internationale Grosskonzerne, deren Hygienestandards sicher gut sind.\
-<!--\[if !supportLineBreakNewLine]-->\
-<!--\[endif]-->
 
-<!--\[if gte vml 1]><v:shape id="Grafik_x0020_3"
- o:spid="_x0000_i1026" type="#_x0000_t75" alt="Neke promene su dobre" style='width:468pt;
- height:272pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="file:////Users/a11/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.jpg"
-  o:title="Neke promene su dobre"/>
-</v:shape><!\[endif]--><!--\[if !vml]-->![Neke promene su dobre](file:////Users/a11/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.jpg)<!--\[endif]-->
+<!--\\[if !supportLineBreakNewLine]-->\
 
-**Die dunkle Seite von McDonalds\
-<!--\[if !supportLineBreakNewLine]-->\
-<!--\[endif]-->**
+<!--\\[endif]-->
+
+![](picture1.jpg)
+
+**Die dunkle Seite von McDonalds**
+
+<!--\\[if !supportLineBreakNewLine]-->
+
+<!--\\[endif]-->
 
 Ein Klassiker des Internets: Das YouTube-Video „*The first Bionic Burger*“, deutet aber auf das Gegenteil hin. Im Video aus dem Jahre 2007 bewahrt ein Mann seine BigMacs über Wochen und schliesslich Jahre auf, ohne dass sie von Schimmel oder Pilzen befallen werden. Das wirft die Frage auf, wie viele Chemikalien im Fastfood-Fleisch stecken und was für ein Gesundheitsrisiko beim Verzehr eingegangen wird.\
 Anscheinend hat McDonalds die Fleischrezeptur geändert, denn eine Kundin berichtete im Jahre 2022 der 20min-Zeitung, dass sie einen schimmeligen Burger bei McDonalds bekommen hat. Auch hat eine Studie der London Metropolitan University gezeigt, dass auf den Touchscreens aller sechs getesteten McDonalds-Standorten, vier in London und zwei in Birmingham, Keime und Spuren von Kot sowie Staphylokokken, die Übelkeit, Erbrechen und Durchfall hervorrufen können, gefunden wurden.\
 Wie hygienisch McDonalds nun wirklich ist, wissen wir nicht. Was wir aber wissen, ist, dass, im Gegensatz zum Balkan-Grill, McDonalds uns ein Interview verweigert hat. Auch der Lieferant des Fleisches für den beliebten BigMac, die Bell AG, wollte uns kein Interview geben. Dazu kommt noch die Tatsache, dass eben jene Konzerne angeblich auf Regionalität setzen, wenn es um die Herkunft des Fleisches geht. Das Einzige, was regional passiert, ist die Verarbeitung des Fleisches, aber woher genau die Tiere kommen, weiss man nicht. Zwar steht auf der offiziellen Seite von McDonalds, dass das BigMac-Fleisch aus der Schweiz und Österreich stammt, aber es gibt keine genauen Angaben über die Höfe oder Möglichkeiten, Kontakt aufzunehmen. Der Balkan-Laden dagegen bezieht sein Fleisch nur aus Höfen des Berner Oberlandes und hat uns eingeladen, einen der Höfe zu besuchen, was aus zeitlichen Gründen leider nicht möglich war.\
-Im Heimatland von McDonalds und den meisten Fastfood-Franchisen, den Vereinigten Staaten von Amerika, sind laut einer Studie der WHO 42 % der erwachsenen Bevölkerung (Stand 2022) schwer übergewichtig. Damit rangieren die USA auf Platz 16 der Länder mit den meisten schwer übergewichtigen erwachsenen Personen auf dem Planeten. Mustafas Heimatland, Bosnien und Herzegowina, dessen Markenzeichen kulinarisch gesehen Pljeskavica und Cevapcici sind, landet bei eben jener Liste auf Platz 112 mit halb so vielen schwer übergewichtigen Personen im Vergleich zu den Vereinigten Staaten, was definitiv teilweise auf Unterschiede in der Esskultur zurückgeführt werden kann.\
-<!--\[if !supportLineBreakNewLine]-->\
-<!--\[endif]-->
+Im Heimatland von McDonalds und den meisten Fastfood-Franchisen, den Vereinigten Staaten von Amerika, sind laut einer Studie der WHO 42 % der erwachsenen Bevölkerung (Stand 2022) schwer übergewichtig. Damit rangieren die USA auf Platz 16 der Länder mit den meisten schwer übergewichtigen erwachsenen Personen auf dem Planeten. Mustafas Heimatland, Bosnien und Herzegowina, dessen Markenzeichen kulinarisch gesehen Pljeskavica und Cevapcici sind, landet bei eben jener Liste auf Platz 112 mit halb so vielen schwer übergewichtigen Personen im Vergleich zu den Vereinigten Staaten, was definitiv teilweise auf Unterschiede in der Esskultur zurückgeführt werden kann.
 
-<!--\[if gte vml 1]><v:shape id="Grafik_x0020_2"
- o:spid="_x0000_i1025" type="#_x0000_t75" alt="Ein Bild, das Karte, Text, Atlas enthält.&#10;&#10;Automatisch generierte Beschreibung"
- style='width:300pt;height:152pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="file:////Users/a11/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.png"
-  o:title="Ein Bild, das Karte, Text, Atlas enthält"/>
-</v:shape><!\[endif]--><!--\[if !vml]-->![Ein Bild, das Karte, Text, Atlas enthält.
+<!--\\[if !supportLineBreakNewLine]-->
 
-Automatisch generierte Beschreibung](file:////Users/a11/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.png)<!--\[endif]-->
+<!--\\[endif]-->
 
+![](obesity_rate_-who-_2022-.png)
 
+**Die Ideologie der Jugend als Hoffnungsträger**
 
-**Die Ideologie der Jugend als Hoffnungsträger\
-<!--\[if !supportLineBreakNewLine]-->\
-<!--\[endif]-->**
+<!--\\[if !supportLineBreakNewLine]-->
+
+<!--\\[endif]-->
 
 Mustafa Sabotic und sein Balkan-Laden hoffen auf eine Wende der „*Amerikanisierung*“ Europas, zumindest im Bereich der Gastronomie. Die aktuellen gesellschaftlichen Entwicklungen in der Schweiz und die Studie der WHO machen auch Hoffnung. Während Fastfood-Ketten wie McDonalds weiterhin dominieren, scheinen vor allem die jüngeren Leute sich vom Fastfood, von Fast Fashion, von umweltunfreundlichen Konzernen und Ähnlichem abzuwenden. Die Jugend setzt, wie es aussieht, mehr auf Nachhaltigkeit und kulturelle Vielfalt. Eine Marktumgebung, wie geschaffen für Mustafas Geschäft, solange er es schafft, die Aufmerksamkeit der jungen Leute auf sich zu ziehen. Er glaubt fest daran, dass die Zukunft seines Geschäfts in der Verbindung von Tradition und modernen Verkaufsstrategien liegt.\
 Ein Aspekt, der Mustafas Läden besonders auszeichnet, ist der enge Kontakt zu lokalen Bauernhöfen. Das Fleisch für seine Filialen bezieht Mustafa ausschliesslich von regionalen Betrieben aus dem Berner Oberland. Dies stärkt nicht nur die lokale Landwirtschaft, sondern garantiert auch die hohe Qualität der Pljeskavica. Ein Fakt, der vielen Leuten unbekannt ist. Eine von uns durchgeführte Strassenumfrage zeigt, dass ein Grossteil der Befragten davon überzeugt ist, dass das Fleisch aus dem Balkan importiert wird. Mustafa spielt daher schon seit längerer Zeit mit dem Gedanken, ein grosses Balkanfest zu organisieren, wo er dann hoffentlich viele Personen von der Regionalität und Nachhaltigkeit seines Fleisches überzeugen und eine Menge neuer Kunden machen kann.\
