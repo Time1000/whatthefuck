@@ -1,7 +1,7 @@
 +++
 headless = true
-title = "Blogsss"
-description = "A Lifelong Depression"
+title = "Blogs"
+description = "Blogs von Timon und Damjan"
 footerLeft = "Powered by ChatGPT"
 footerRight = "🏷️ [Tags](/tags/) | 🗃️ [Archive](/posts/)"
 +++
