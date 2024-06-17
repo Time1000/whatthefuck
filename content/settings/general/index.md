@@ -2,6 +2,6 @@
 headless = true
 title = "Blogs"
 description = "Blogs von Timon und Damjan"
-footerLeft = "Powered by ChatGPT"
+footerLeft = ""
 footerRight = "🏷️ [Tags](/tags/) | 🗃️ [Archive](/posts/)"
 +++
