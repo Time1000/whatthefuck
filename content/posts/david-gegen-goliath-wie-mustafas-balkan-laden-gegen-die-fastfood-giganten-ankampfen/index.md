@@ -27,7 +27,7 @@ Milan studiert Theaterwissenschaften an der Uni Bern. Nach den Vorlesungen hilft
 
 Mustafa erzählte uns, wie sich die Gesichter, die der Laden sah, änderten. Anfangs, als im damaligen Jugoslawien der Bürgerkrieg tobte und die ersten Migrationswellen die Schweiz erreichten, florierte das Geschäft und war voller „*Jugos*“. Während dieser Zeit eröffnete auch der Grill in Bern und in den Mittagspausen kamen immer viele Leute auf eine Pljeskavica, ganz wie in der Heimat, vorbei. „*Es war sehr schön zu sehen, wie die Leute freundlich und respektvoll waren, obwohl Ihre Völker sich bekämpften."*
 
-> *"Während das Alte Jugoslawien zusammenbrach, wuchs in meinem Laden ein kleines Neues*.“
+> *Während das Alte Jugoslawien zusammenbrach, wuchs in meinem Laden ein kleines Neues*.
 
 Erzählt uns der Ladenbesitzer schmunzelnd. Die Demografie in den Läden hat sich mittlerweile aber geändert. Weiterhin, so Mustafa, seien die meisten Kunden vom Balkan, aber es gäbe auch Schweizer und Westeuropäer, die regelmässig vorbeischauten, um vor allem Gewürze und Trockenware einzukaufen. Dafür sind die südlichen Regionen Europas schliesslich bekannt.
 
@@ -54,7 +54,7 @@ Mustafa Sabotic und sein Balkan-Laden hoffen auf eine Wende der „*Amerikanisie
 Ein Aspekt, der Mustafas Läden besonders auszeichnet, ist der enge Kontakt zu lokalen Bauernhöfen. Das Fleisch für seine Filialen bezieht Mustafa ausschliesslich von regionalen Betrieben aus dem Berner Oberland. Dies stärkt nicht nur die lokale Landwirtschaft, sondern garantiert auch die hohe Qualität der Pljeskavica. Ein Fakt, der vielen Leuten unbekannt ist. Eine von uns durchgeführte Strassenumfrage zeigt, dass ein Grossteil der Befragten davon überzeugt ist, dass das Fleisch aus dem Balkan importiert wird. Mustafa spielt daher schon seit längerer Zeit mit dem Gedanken, ein grosses Balkanfest zu organisieren, wo er dann hoffentlich viele Personen von der Regionalität und Nachhaltigkeit seines Fleisches überzeugen und eine Menge neuer Kunden machen kann.\
 Trotz diverser Herausforderungen wie der Digitalisierung, dem harten Wettbewerb und allerlei Vorurteilen bleibt der Ladeninhaber optimistisch. 
 
-> „*Wir bieten mehr als nur Essen – wir bieten ein Stück Heimat*“
+> *Wir bieten mehr als nur Essen – wir bieten ein Stück Heimat*
 
 sagt Mustafa Stolz. Um diesen Wert zu erhalten und gleichzeitig mit dem Zeitgeist zu gehen, plant die Familie Sabotic, in naher Zukunft einen Onlineshop zu eröffnen und ihre Präsenz in den sozialen Medien zu verstärken. Mustafas Söhne sind bereits dabei, die nötigen Schritte zu unternehmen, um das Geschäft zu modernisieren und eine jüngere Kundschaft zu erreichen, die dem Geschäft eine langersehnte Lebendigkeit bringen soll.\
 Mit dieser Strategie hofft Mustafa, die kulturelle Brücke, die er vor Jahrzehnten mit seinen Läden gebaut hat, weiter auszubauen. Seine Geschichte ist ein Beweis dafür, dass Hingabe und Anpassungsfähigkeit auch in einem sich ständig verändernden Marktumfeld zum Erfolg führen können. „*Unser Laden ist nicht nur ein Geschäft, sondern ein Treffpunkt für die Gemeinschaft*“, fügt Mustafa hinzu. Und so bleibt der Balkan-Laden ein Symbol für Tradition und Fortschritt – eine Mischung, die in der heutigen schnelllebigen Welt von unschätzbarem Wert ist.
